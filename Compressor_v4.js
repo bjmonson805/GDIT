@@ -639,7 +639,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/compressor_empty3.jpg?1749574073310", id:"compressor_empty3"}
+		{src:"images2/compressor_empty3.jpg?1749574073310", id:"compressor_empty3"}
 	],
 	preloads: []
 };
